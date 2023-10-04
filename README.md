@@ -143,6 +143,6 @@ We will clone and build it from your GitHub repo. We will not get code from any 
 * Extra credit:
     * 1 pt: Figure out how to turn on "Show layout bounds" in Developer options, and take a video of your device with that setting turned on. (This is helpful when debugging layout issues in your apps.)
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
-    * Answer: The developer option that I’ve chosen for the extra credit question is the Take bug report developer option. This particular developer option might be useful to me if I end up getting stuck on a specific bug and intend to share my bug report to someone else to see if they could possibly help me diagnose the issue.
+       * Answer: The developer option that I’ve chosen for the extra credit question is the Take bug report developer option. This particular developer option might be useful to me if I end up getting stuck on a specific bug and intend to share my bug report to someone else to see if they could possibly help me diagnose the issue.
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
